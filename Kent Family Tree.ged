@@ -1,0 +1,1082 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2025.08
+2 _TREE Kent Family Tree
+3 RIN 157180751
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 11 Feb 2026
+2 TIME 03:08:21
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I192066890506@ INDI
+1 NAME Tristan /Kent/ D
+2 GIVN Tristan
+2 SURN Kent
+2 NSFX D
+1 SEX M
+1 FAMC @F4@
+1 BIRT
+2 DATE 12 Oct 1982
+2 PLAC Sydney, New South Wales, Australia
+0 @I192066890508@ INDI
+1 NAME David John /Kent/
+2 GIVN David John
+2 SURN Kent
+1 SEX M
+1 FAMC @F13@
+1 FAMS @F4@
+1 BIRT
+2 DATE 10 Mar 1953
+0 @I192066967602@ INDI
+1 NAME Victoria winifred /Simpson/
+2 GIVN Victoria winifred
+2 SURN Simpson
+1 SEX F
+1 FAMC @F20@
+1 FAMS @F4@
+1 BIRT
+2 DATE 2 Feb 1952
+0 @I192066968028@ INDI
+1 NAME Patrick Noel /Simpson/
+2 GIVN Patrick Noel
+2 SURN Simpson
+2 SOUR @S501075289@
+3 _APID 1,60528::1364568
+1 SEX M
+1 FAMS @F20@
+1 DEAT
+2 DATE 25 April 2012
+2 SOUR @S501075289@
+3 _APID 1,60528::1364568
+1 BURI
+2 PLAC North Ryde, Ryde City, New South Wales, Australia
+2 SOUR @S501075289@
+3 _APID 1,60528::1364568
+1 SOUR @S501075289@
+2 _APID 1,60528::1364568
+0 @I192066968202@ INDI
+1 NAME Thelma /Wright/
+2 GIVN Thelma
+2 SURN Wright
+2 SOUR @S501075289@
+3 _APID 1,60528::152997699
+1 SEX F
+1 FAMC @F19@
+1 FAMS @F13@
+1 BIRT
+2 DATE 26 November 1914
+2 SOUR @S501075289@
+3 _APID 1,60528::152997699
+1 DEAT
+2 DATE 21 October 2011
+2 SOUR @S501075289@
+3 _APID 1,60528::152997699
+1 BURI
+2 PLAC Rookwood, Cumberland Council, New South Wales, Australia
+2 SOUR @S501075289@
+3 _APID 1,60528::152997699
+1 SOUR @S501075289@
+2 _APID 1,60528::152997699
+0 @I192066973933@ INDI
+1 NAME Anna louise /Kent/
+2 GIVN Anna louise
+2 SURN Kent
+1 SEX F
+1 FAMC @F4@
+0 @I192141463006@ INDI
+1 NAME cyril /Kent/
+2 GIVN cyril
+2 SURN Kent
+2 SOUR @S501075289@
+3 _APID 1,60528::152975190
+1 SEX M
+1 FAMC @F12@
+1 FAMS @F13@
+1 BIRT
+2 DATE 22 July 1912
+2 SOUR @S501075289@
+3 _APID 1,60528::152975190
+1 DEAT
+2 DATE 29 September 1991
+2 SOUR @S501075289@
+3 _APID 1,60528::152975190
+1 BURI
+2 PLAC Rookwood, Cumberland Council, New South Wales, Australia
+2 SOUR @S501075289@
+3 _APID 1,60528::152975190
+1 SOUR @S501075289@
+2 _APID 1,60528::152975190
+0 @I192141463030@ INDI
+1 NAME Vera Simpson //
+2 GIVN Vera Simpson
+1 SEX F
+1 FAMS @F20@
+0 @I192378551362@ INDI
+1 NAME Charlotte Ida Elizabeth /De Vos/ DK DK-RK PW
+2 GIVN Charlotte Ida Elizabeth
+2 SURN De Vos
+2 NSFX DK DK-RK PW
+1 SEX F
+1 FAMC @F1@
+1 FAMS @F12@
+1 BIRT
+2 DATE 14 Dec 1871
+2 PLAC Trincomalee, Sri Lanka
+1 DEAT
+2 DATE 29 Aug 1942
+2 PLAC Columbo, Ceylon
+1 OBJE @O7@
+2 _PRIM Y
+0 @I192378551708@ INDI
+1 NAME Charles /Kent/
+2 GIVN Charles
+2 SURN Kent
+1 SEX M
+1 FAMC @F23@
+1 FAMS @F12@
+1 BIRT
+2 DATE 30 May 1869
+2 PLAC Brecknock, Breconshire, Wales
+1 DEAT
+2 DATE 11 Aug 1947
+2 PLAC Edgbaston, Warwickshire, England
+1 OBJE @O8@
+2 _PRIM Y
+0 @I192378551810@ INDI
+1 NAME John George /De Vos/
+2 GIVN John George
+2 SURN De Vos
+1 SEX M
+1 FAMC @F8@
+1 FAMS @F1@
+1 BIRT
+2 DATE 5 JUN 1835
+2 PLAC Sri Lanka
+0 @I192378551818@ INDI
+1 NAME Harriet /Hunter/
+2 GIVN Harriet
+2 SURN Hunter
+1 SEX F
+1 FAMC @F14@
+1 FAMS @F1@
+1 BIRT
+2 DATE 01-Feb-1837
+2 PLAC Trincomalee, Eastern Province, Ceylon
+0 @I192378551907@ INDI
+1 NAME Charles /Kent/
+2 GIVN Charles
+2 SURN Kent
+1 SEX M
+1 FAMC @F7@
+1 FAMS @F23@
+1 BIRT
+2 DATE 15 Nov 1835
+2 PLAC Farringdon, Berkshire, England
+1 DEAT
+2 DATE 2 Oct 1893
+2 PLAC Warwick, Warwickshire, Engnd
+0 @I192378551919@ INDI
+1 NAME Frances Harriett /Hadley/
+2 GIVN Frances Harriett
+2 SURN Hadley
+1 SEX F
+1 FAMC @F27@
+1 FAMS @F23@
+1 BIRT
+2 DATE 28 Feb 1842
+2 PLAC Willenhall, Staffordshire, England
+1 DEAT
+2 DATE Jan 1900
+2 PLAC Warwick, Warwickshire, England
+0 @I192378551975@ INDI
+1 NAME Margaret /Adey/
+2 GIVN Margaret
+2 SURN Adey
+1 SEX F
+1 FAMC @F18@
+1 FAMS @F27@
+1 BIRT
+2 DATE May 12, 1805
+2 PLAC Wednesfield, Staffordshire, England
+1 DEAT
+2 DATE Jun 1879
+2 PLAC Wolverhampton, Staffordshire, England
+1 OBJE @O6@
+2 _PRIM Y
+0 @I192378552069@ INDI
+1 NAME James /Kent/ the 2nd ✓
+2 GIVN James
+2 SURN Kent
+2 NSFX the 2nd ✓
+1 SEX M
+1 FAMS @F7@
+1 BIRT
+2 DATE 12 Feb 1799
+2 PLAC Ardington, Berkshire, England
+1 DEAT
+2 DATE abt 1884
+2 PLAC Faringdon, Berkshire, England
+1 OBJE @O5@
+2 _PRIM Y
+0 @I192378552095@ INDI
+1 NAME Sarah Jane /Rixon/ ✓
+2 GIVN Sarah Jane
+2 SURN Rixon
+2 NSFX ✓
+1 SEX F
+1 FAMS @F7@
+1 BIRT
+2 DATE 27 Apr 1801
+2 PLAC Faringdon, Berkshire, England
+1 DEAT
+2 DATE abt 1878
+2 PLAC Faringdon, Berkshire, England
+1 OBJE @O3@
+2 _PRIM Y
+0 @I192378552114@ INDI
+1 NAME John /Hunter/
+2 GIVN John
+2 SURN Hunter
+1 SEX M
+1 FAMC @F21@
+1 FAMS @F14@
+1 BIRT
+2 DATE 1796
+2 PLAC ?
+1 DEAT
+2 DATE 20 Feb 1842
+2 PLAC Trincomalee, Ceylon
+0 @I192378552181@ INDI
+1 NAME Charlotta Frederica /Redlich/
+2 GIVN Charlotta Frederica
+2 SURN Redlich
+1 SEX F
+1 FAMS @F14@
+1 BIRT
+2 DATE 1808
+2 PLAC Colombo, Western Province, Ceylon
+1 DEAT
+2 DATE 31-Oct-1849
+2 PLAC Trincomalee, Eastern Province, Ceylon
+0 @I192378552197@ INDI
+1 NAME John George /De Vos/
+2 GIVN John George
+2 SURN De Vos
+1 SEX M
+1 FAMC @F16@
+1 FAMS @F8@
+1 BIRT
+2 DATE 13 Nov 1810
+2 PLAC Colombo, Western Prov., Ceylon. (Sri Lanka)
+1 DEAT
+2 DATE 2 DEC 1889
+0 @I192378552208@ INDI
+1 NAME Elizabeth Euphrosine Merciana /Francke/
+2 GIVN Elizabeth Euphrosine Merciana
+2 SURN Francke
+1 SEX F
+1 FAMS @F8@
+1 BIRT
+2 DATE 28 August 1817
+2 PLAC Colombo, Ceylon (Sri Lanka)
+1 DEAT
+2 DATE 25 October 1883
+2 PLAC Jaffna, Ceylon (Sri Lanka)
+0 @I192378552276@ INDI
+1 NAME John British Bank Madras /Hunter/
+2 GIVN John British Bank Madras
+2 SURN Hunter
+1 SEX M
+1 FAMS @F21@
+1 BIRT
+2 DATE Abt. 1756
+1 DEAT
+2 DATE 10 Sep 1815
+2 PLAC Leamington Priors, Warwickshire, England
+0 @I192378552311@ INDI
+1 NAME Dorothea Sophia Charlotta /Gericke/
+2 GIVN Dorothea Sophia Charlotta
+2 SURN Gericke
+1 SEX F
+1 FAMC @F15@
+1 FAMS @F21@
+1 BIRT
+2 DATE 9 July 1777
+1 DEAT
+2 DATE abt 1796
+0 @I192378552392@ INDI
+1 NAME Christian William /Gericke/ Rev
+2 GIVN Christian William
+2 SURN Gericke
+2 NSFX Rev
+1 SEX M
+1 FAMC @F26@
+1 FAMS @F15@
+1 BIRT
+2 DATE 5 Apr 1743
+2 PLAC Kolberg
+1 DEAT
+2 DATE 02 Oct 1803
+2 PLAC Vepery, Madras, India
+0 @I192378552431@ INDI
+1 NAME Anna Sophia /Hutteman/
+2 GIVN Anna Sophia
+2 SURN Hutteman
+1 SEX F
+1 FAMC @F28@
+1 FAMS @F15@
+1 BIRT
+2 DATE 1755
+1 DEAT
+2 DATE abt 1807
+0 @I192378552468@ INDI
+1 NAME Reverend George Heinrich Conrad /Hüttemann/
+2 GIVN Reverend George Heinrich Conrad
+2 SURN Hüttemann
+1 SEX M
+1 FAMS @F28@
+1 BIRT
+2 DATE 29 Jan 1728
+2 PLAC Minden-Lübbecke, North Rhine-Westphalia, Germany
+1 DEAT
+2 DATE 18 Jul 1781
+2 PLAC Cuddalore, Tamil Nadu, India
+0 @I192378552488@ INDI
+1 NAME Dorothea Lucia /Bandelin/
+2 GIVN Dorothea Lucia
+2 SURN Bandelin
+1 SEX F
+1 FAMS @F26@
+1 BIRT
+2 DATE ABT 1722
+1 DEAT
+2 DATE 1762
+0 @I192378552520@ INDI
+1 NAME Petrus Gerardus /De Vos/
+2 GIVN Petrus Gerardus
+2 SURN De Vos
+1 SEX M
+1 FAMC @F24@
+1 FAMS @F16@
+1 BIRT
+2 DATE 18 NOV 1762
+2 PLAC Galle, Southern Sri Lanka, Sri Lanka
+1 DEAT
+2 PLAC Colombo, Western Prov., Ceylon. (Sri Lanka)
+0 @I192378552536@ INDI
+1 NAME Susanna Petronella /van Dort/
+2 GIVN Susanna Petronella
+2 SURN van Dort
+1 SEX F
+1 FAMS @F16@
+1 BIRT
+2 DATE 18 Aug 1790
+2 PLAC Colombo, Sri Lanka
+0 @I192378552556@ INDI
+1 NAME Pieter /de Vos/
+2 GIVN Pieter
+2 SURN de Vos
+1 SEX M
+1 FAMC @F5@
+1 FAMS @F24@
+1 BIRT
+2 DATE 12 Apr 1731
+2 PLAC Colombo, Sri Lanka
+1 DEAT
+2 DATE 29 Jan 1793
+2 PLAC Mahamodera Galle, Sri Lanka
+0 @I192378552567@ INDI
+1 NAME Magdalena /Meyer/
+2 GIVN Magdalena
+2 SURN Meyer
+1 SEX F
+1 FAMS @F24@
+1 BIRT
+2 DATE 26 Jul 1744
+2 PLAC Galle (Ceylon)
+1 DEAT
+2 DATE 18 Apr 1780
+2 PLAC Galle (Ceylon)
+0 @I192378552583@ INDI
+1 NAME Pieter /De Vos/
+2 GIVN Pieter
+2 SURN De Vos
+1 SEX M
+1 FAMC @F25@
+1 FAMS @F5@
+1 BIRT
+2 DATE 27 Dec 1698
+2 PLAC Colombo (Ceylon)
+1 DEAT
+2 DATE 6 Mar 1734
+2 PLAC Colombo (Ceylon)
+0 @I192378552605@ INDI
+1 NAME Christina /Polnitz/
+2 GIVN Christina
+2 SURN Polnitz
+1 SEX F
+1 FAMS @F5@
+1 BIRT
+2 DATE 1 Apr 1699
+2 PLAC Colombo,Sri Lanka
+1 DEAT
+2 DATE 17 Mar 1750
+2 PLAC Colombo,Sri Lanka
+0 @I192378552690@ INDI
+1 NAME Johanna /Melchiors/
+2 GIVN Johanna
+2 SURN Melchiors
+1 SEX F
+1 FAMS @F25@
+1 BIRT
+2 DATE 6 JAN 1657
+2 PLAC Brugge, West-Vlaanderen, Belgium
+1 DEAT
+2 DATE after 1698
+0 @I192378552699@ INDI
+1 NAME Olivier /de Vos/
+2 GIVN Olivier
+2 SURN de Vos
+1 SEX M
+1 FAMC @F6@
+1 FAMS @F25@
+1 BIRT
+2 DATE 13 February 1653
+2 PLAC Brugge
+1 DEAT
+2 DATE 1699
+2 PLAC Colombo (Ceylon)
+0 @I192378552710@ INDI
+1 NAME Victor /de Vos/
+2 GIVN Victor
+2 SURN de Vos
+1 SEX M
+1 FAMS @F6@
+1 BIRT
+2 DATE Abt 1614
+2 PLAC Brugge
+1 DEAT
+2 DATE Unknown
+0 @I192378552760@ INDI
+1 NAME Maria /Jooris/
+2 GIVN Maria
+2 SURN Jooris
+1 SEX F
+1 FAMC @F3@
+1 FAMS @F6@
+1 BIRT
+2 DATE 10 July 1614
+2 PLAC Brugge
+1 DEAT
+2 DATE unknown
+0 @I192378552802@ INDI
+1 NAME Josse /Jooris/
+2 GIVN Josse
+2 SURN Jooris
+1 SEX M
+1 FAMC @F10@
+1 FAMS @F3@
+1 BIRT
+2 DATE abt 1590
+2 PLAC Bruges, Gironde, Aquitaine, France
+1 DEAT
+2 DATE unknown
+0 @I192378552834@ INDI
+1 NAME Maria /Brussier/
+2 GIVN Maria
+2 SURN Brussier
+1 SEX F
+1 FAMS @F3@
+1 BIRT
+2 DATE 25 March 1591
+2 PLAC Brugge (Bruges), Belgique.
+1 DEAT
+2 DATE unknown
+0 @I192378552851@ INDI
+1 NAME Jacques /Jooris/
+2 GIVN Jacques
+2 SURN Jooris
+1 SEX M
+1 FAMS @F10@
+1 BIRT
+2 DATE 1567
+2 PLAC Bruges, Gironde, Aquitaine, France
+1 DEAT
+2 DATE 6 Aug 1610
+2 PLAC Sainte Croix Les Bruges, France
+0 @I192378552856@ INDI
+1 NAME Agnés /Wittebroodt/
+2 GIVN Agnés
+2 SURN Wittebroodt
+1 SEX F
+1 FAMS @F10@
+1 BIRT
+2 DATE 1 JAN 1567
+2 PLAC Brugge
+0 @I192378552914@ INDI
+1 NAME Joseph /Adey/
+2 GIVN Joseph
+2 SURN Adey
+1 SEX M
+1 FAMC @F9@
+1 FAMS @F18@
+1 BIRT
+2 DATE 18 Feb 1770
+2 PLAC Wolverhamptom, Staffordshire county, England
+1 DEAT
+2 DATE October 1857
+2 PLAC Wolverhampton, Staffordshire, , England
+1 OBJE @O2@
+2 _PRIM Y
+0 @I192378552925@ INDI
+1 NAME Martha /Hammersley/
+2 GIVN Martha
+2 SURN Hammersley
+1 SEX F
+1 FAMS @F18@
+1 BIRT
+2 DATE 1  Sep 1782
+2 PLAC Wednesfeld,Staffordshire county, England
+1 DEAT
+2 DATE Dec 1856
+2 PLAC Wolverhamptom, Staffordshire county, England
+1 OBJE @O10@
+2 _PRIM Y
+0 @I192378552964@ INDI
+1 NAME James /Adey/
+2 GIVN James
+2 SURN Adey
+1 SEX M
+1 FAMS @F9@
+1 BIRT
+2 DATE 12 Mar 1737
+2 PLAC Cannock, Staffordshire, England
+1 DEAT
+2 DATE 25 Oct 1792
+2 PLAC Wednesfield, Staffordshire, England
+0 @I192378552998@ INDI
+1 NAME Ann /Jackson/
+2 GIVN Ann
+2 SURN Jackson
+1 SEX F
+1 FAMS @F9@
+1 BIRT
+2 DATE Mar 1739
+2 PLAC King's Bromley, Staffordshire, England
+1 DEAT
+2 DATE abt 1801
+0 @I192378553053@ INDI
+1 NAME Elsie Amelia /Lloyd/
+2 GIVN Elsie Amelia
+2 SURN Lloyd
+1 SEX F
+1 FAMC @F2@
+1 FAMS @F19@
+1 BIRT
+2 DATE 26 February 1892
+2 PLAC Redfern, Sydney NSW Australia
+1 DEAT
+2 DATE 30 Mar 1982
+2 PLAC Sydney, NSW Australia - Burial
+1 OBJE @O4@
+2 _PRIM Y
+0 @I192378553072@ INDI
+1 NAME Frederick Ernest /Wright/
+2 GIVN Frederick Ernest
+2 SURN Wright
+1 SEX M
+1 FAMS @F19@
+1 BIRT
+2 DATE 13 Nov 1885
+2 PLAC  Lismore, New South Wales
+1 DEAT
+2 DATE 20 Oct 1953
+2 PLAC 28 The Mall, South Hurstville, Sydney, New South Wales, Australia
+1 OBJE @O1@
+2 _PRIM Y
+0 @I192378553098@ INDI
+1 NAME John Llewellyn /Lloyd/
+2 GIVN John Llewellyn
+2 SURN Lloyd
+1 SEX M
+1 FAMC @F17@
+1 FAMS @F2@
+1 BIRT
+2 DATE 1854
+2 PLAC Sydney, NSW, Australia
+1 DEAT
+2 DATE 15 Jun 1916
+2 PLAC Redfern, New South Wales, Australia
+0 @I192378553114@ INDI
+1 NAME Charlotte /Judd/
+2 GIVN Charlotte
+2 SURN Judd
+1 SEX F
+1 FAMS @F2@
+1 BIRT
+2 DATE July 1855
+2 PLAC Southton, Hampshire, England
+1 DEAT
+2 DATE 1927
+2 PLAC St Peters, New South Wales, Australia
+0 @I192378553166@ INDI
+1 NAME Edward Charles /Lloyd/
+2 GIVN Edward Charles
+2 SURN Lloyd
+1 SEX M
+1 FAMS @F17@
+1 BIRT
+2 DATE 1815
+1 DEAT
+2 DATE 3 April 1887
+2 PLAC Bethungra, Junee Shire, New South Wales, Australia
+1 OBJE @O9@
+2 _PRIM Y
+0 @I192378553176@ INDI
+1 NAME Margaret Martha /Faunt/
+2 GIVN Margaret Martha
+2 SURN Faunt
+1 SEX F
+1 FAMC @F22@
+1 FAMS @F17@
+1 BIRT
+2 DATE 1837
+2 PLAC New South Wales, Australia
+1 DEAT
+2 DATE 15 June 1913
+2 PLAC Cootamundra, New South Wales
+0 @I192378553194@ INDI
+1 NAME Edward /Faunt/
+2 GIVN Edward
+2 SURN Faunt
+1 SEX M
+1 FAMC @F11@
+1 FAMS @F22@
+1 BIRT
+2 DATE 1808
+2 PLAC Westmeath, County Down, Ireland
+1 DEAT
+2 DATE 30 Sep 1904
+2 PLAC Cootamundra, NSW, Australia
+0 @I192378553205@ INDI
+1 NAME Mary /Turner/
+2 GIVN Mary
+2 SURN Turner
+1 SEX F
+1 FAMS @F22@
+1 BIRT
+2 DATE 1817
+2 PLAC Belfast, Antrim, Ireland
+1 DEAT
+2 DATE 24 Mar 1890
+2 PLAC Cootamundra, New South Wales, Australia
+0 @I192378553235@ INDI
+1 NAME Charles /Faunt/
+2 GIVN Charles
+2 SURN Faunt
+1 SEX M
+1 FAMS @F11@
+1 BIRT
+2 DATE Abt 1780
+2 PLAC Parish of Mullingar, County Westmeath, Ireland
+1 DEAT
+2 DATE 5 Mar 1847
+2 PLAC Sydney, New South Wales
+0 @I192378553245@ INDI
+1 NAME Margaret /(Martha)/ Sherlock
+2 GIVN Margaret
+2 SURN (Martha)
+2 NSFX Sherlock
+1 SEX F
+1 FAMS @F11@
+1 BIRT
+2 DATE 1780
+2 PLAC Bandon, County Cork, Ireland
+1 DEAT
+2 DATE 1851
+2 PLAC New South Wales  Australia
+0 @F1@ FAM
+1 HUSB @I192378551810@
+1 WIFE @I192378551818@
+1 CHIL @I192378551362@
+0 @F2@ FAM
+1 HUSB @I192378553098@
+1 WIFE @I192378553114@
+1 CHIL @I192378553053@
+0 @F3@ FAM
+1 HUSB @I192378552802@
+1 WIFE @I192378552834@
+1 CHIL @I192378552760@
+0 @F4@ FAM
+1 HUSB @I192066890508@
+1 WIFE @I192066967602@
+1 CHIL @I192066890506@
+1 CHIL @I192066973933@
+0 @F5@ FAM
+1 HUSB @I192378552583@
+1 WIFE @I192378552605@
+1 CHIL @I192378552556@
+0 @F6@ FAM
+1 HUSB @I192378552710@
+1 WIFE @I192378552760@
+1 CHIL @I192378552699@
+0 @F7@ FAM
+1 HUSB @I192378552069@
+1 WIFE @I192378552095@
+1 CHIL @I192378551907@
+0 @F8@ FAM
+1 HUSB @I192378552197@
+1 WIFE @I192378552208@
+1 CHIL @I192378551810@
+0 @F9@ FAM
+1 HUSB @I192378552964@
+1 WIFE @I192378552998@
+1 CHIL @I192378552914@
+0 @F10@ FAM
+1 HUSB @I192378552851@
+1 WIFE @I192378552856@
+1 CHIL @I192378552802@
+0 @F11@ FAM
+1 HUSB @I192378553235@
+1 WIFE @I192378553245@
+1 CHIL @I192378553194@
+0 @F12@ FAM
+1 HUSB @I192378551708@
+1 WIFE @I192378551362@
+1 CHIL @I192141463006@
+0 @F13@ FAM
+1 HUSB @I192141463006@
+1 WIFE @I192066968202@
+1 CHIL @I192066890508@
+0 @F14@ FAM
+1 HUSB @I192378552114@
+1 WIFE @I192378552181@
+1 CHIL @I192378551818@
+0 @F15@ FAM
+1 HUSB @I192378552392@
+1 WIFE @I192378552431@
+1 CHIL @I192378552311@
+0 @F16@ FAM
+1 HUSB @I192378552520@
+1 WIFE @I192378552536@
+1 CHIL @I192378552197@
+0 @F17@ FAM
+1 HUSB @I192378553166@
+1 WIFE @I192378553176@
+1 CHIL @I192378553098@
+0 @F18@ FAM
+1 HUSB @I192378552914@
+1 WIFE @I192378552925@
+1 CHIL @I192378551975@
+0 @F19@ FAM
+1 HUSB @I192378553072@
+1 WIFE @I192378553053@
+1 CHIL @I192066968202@
+0 @F20@ FAM
+1 HUSB @I192066968028@
+1 WIFE @I192141463030@
+1 CHIL @I192066967602@
+0 @F21@ FAM
+1 HUSB @I192378552276@
+1 WIFE @I192378552311@
+1 CHIL @I192378552114@
+0 @F22@ FAM
+1 HUSB @I192378553194@
+1 WIFE @I192378553205@
+1 CHIL @I192378553176@
+0 @F23@ FAM
+1 HUSB @I192378551907@
+1 WIFE @I192378551919@
+1 CHIL @I192378551708@
+0 @F24@ FAM
+1 HUSB @I192378552556@
+1 WIFE @I192378552567@
+1 CHIL @I192378552520@
+0 @F25@ FAM
+1 HUSB @I192378552699@
+1 WIFE @I192378552690@
+1 CHIL @I192378552583@
+0 @F26@ FAM
+1 WIFE @I192378552488@
+1 CHIL @I192378552392@
+0 @F27@ FAM
+1 WIFE @I192378551975@
+1 CHIL @I192378551919@
+0 @F28@ FAM
+1 HUSB @I192378552468@
+1 CHIL @I192378552431@
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 81634
+3 _WDTH 1186
+3 _HGHT 402
+2 TITL Frederick E &Elsie A (Lloyd) Wright marr 1914
+1 _OID 0eecfc2b-db5b-41bd-ac70-6271c249f7dd
+1 _CREA 2022-05-14 12:48:37.688
+1 _USER BExK1DWQWd3W8HIy/xKDS1qY+3ZC9Q5x0ij7H0tN50NwCbPtXZ3Fc970STtHziszj10n+0R8OEwDpGZoD72EfQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 6698837
+2 _PID -1158131924
+2 _OID 2877adb0-8933-44cb-a944-716154c7277e
+2 _USER 01uWG+UX0OdoAoRLjMVXLgOuPSfEfP0e2oT9umHFfPK47N0nLbNX4cyYrshm+0TiZxgLR4oLlpH7OYBRbxPgpQ==
+3 _ENCR 1
+2 _DATE 2019-11-23 05:59:25.000
+1 _ORIG u
+1 _MSER
+2 _LKID 2877adb0-8933-44cb-a944-716154c7277e
+1 _ATL N
+0 @O2@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 673969
+3 _WDTH 1653
+3 _HGHT 2141
+2 TITL IGI  Individual Record for Joseph Adey
+1 _OID 2d9e705c-f818-41d0-a141-56d3f84d5b70
+1 DATE Feb 18, 1770
+1 PLAC Wednesfield, Staffordshire county, England
+1 _META <metadataxml><cemetery /><transcription>Parents for Joseph Adey are indicated as John &amp; Mrs Ann Adey.</transcription></metadataxml>
+1 _CREA 2022-05-14 12:46:11.145
+1 _USER CN/xQ09UnDea/R3SEUDezbVEhV+30YTFg05o9KeHZi/wSo8SGEaqWV8b7Gs5SbQurrKaHVjUfg6Wa5/LOR5xLw==
+2 _ENCR 1
+1 _CLON
+2 _TID 17428643
+2 _PID 512961352
+2 _OID 5d7fd3ab-2723-434a-905a-fbcfd005575f
+2 _USER WJUrbKOE8K6wd+OWSY3OGk49Ca/dQ8HQuNmEmjIvjLwmHCGWjRd7oUPBizLFQwweCxihQGOA/Iv80M+KWqTuQA==
+3 _ENCR 1
+2 _DATE 2011-02-15 23:01:34.000
+1 _ORIG u
+1 _MSER
+2 _LKID 5d7fd3ab-2723-434a-905a-fbcfd005575f
+1 _ATL N
+0 @O3@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 99007
+3 _WDTH 960
+3 _HGHT 540
+2 TITL Trace-DNA
+1 _OID 382a5b03-b357-475f-ad4b-abc2ce423497
+1 _CREA 2022-05-14 12:31:43.294
+1 _USER gflauNfK5MdeKEL/jSracPjeZvPKVgA2KUeioYuOIB8hs+Q3x035dFxVuq72GS1rzuXXbg7CPdlpnT2gDzcQvA==
+2 _ENCR 1
+1 _CLON
+2 _TID 155663287
+2 _PID 432055229538
+2 _OID 77ea78ca-2484-4158-98cf-760d275aaf59
+2 _USER hHpECyOM1vSdupLnIYQLrGDPc79Hu9fJZj8v5fN2vtQNZZlWB5ifyjRZ+gSNrtqWvT195s7KHcauVMRUxCss3g==
+3 _ENCR 1
+2 _DATE 2019-10-18 21:17:08.000
+1 _ORIG u
+1 _MSER
+2 _LKID 77ea78ca-2484-4158-98cf-760d275aaf59
+1 _ATL N
+0 @O4@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 23391
+3 _WDTH 251
+3 _HGHT 159
+2 TITL WRIGHT nee LLoyd, Elsie Amelia - death  notice 1982 SMH
+1 _OID 3a1e4b9b-9ffd-471b-862f-a0f7a668d1e4
+1 _DSCR The Sydney Morning Herald - Apr 1, 1982 page 12 
+1 _CREA 2022-05-14 12:48:18.418
+1 _USER z6oZSSMh+oETrb33+IFKS9FNW7gF9Nlfpt/NWM1KbMKU043Cc4rSfde6fQb5MkB1kiw8w8gAUH9rEcNgH5R5Og==
+2 _ENCR 1
+1 _CLON
+2 _TID 26383579
+2 _PID 1833222228
+2 _OID 48aa3bc6-e416-415f-a3cd-73521d54fd37
+2 _USER zplSNAZPXcow79ayE6aHn3tVCLTe4wd9ZfyzHO+mgDoA/+NSPFkTWbeQbtKX2tsneXXFLcYxp6PPXBkFQJOjKw==
+3 _ENCR 1
+2 _DATE 2020-05-12 04:50:44.000
+1 _ORIG u
+1 _MSER
+2 _LKID 48aa3bc6-e416-415f-a3cd-73521d54fd37
+1 _ATL N
+0 @O5@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 99007
+3 _WDTH 960
+3 _HGHT 540
+2 TITL Trace-DNA
+1 _OID 5c58fd05-4227-40ac-983c-187e93bc6c49
+1 _CREA 2022-05-14 12:31:24.900
+1 _USER 3YrCtIJhD5OgfEVlkd5WTUk/fO9pV8eE9voPMwp7M+PYY6tft2pkbMTav8hdYi+m7VjRvY/cZmhMTwMxhdJhbg==
+2 _ENCR 1
+1 _CLON
+2 _TID 155663287
+2 _PID 432055229538
+2 _OID 77ea78ca-2484-4158-98cf-760d275aaf59
+2 _USER 2gNfiD3DkJ/MwFFfTvERjlB7wyEjfcQJ+hQ2dOjxvp+m0PH4RTstbsrooEnPDWDHia1B7g0Fx6ONvcgEhApi/A==
+3 _ENCR 1
+2 _DATE 2019-10-18 21:17:08.000
+1 _ORIG u
+1 _MSER
+2 _LKID 77ea78ca-2484-4158-98cf-760d275aaf59
+1 _ATL N
+0 @O6@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 609101
+3 _WDTH 2338
+3 _HGHT 1700
+2 TITL Margaret Adey birth record
+1 _OID abcf3760-1de4-4c13-8989-2d196d1a6694
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2022-05-14 12:29:35.726
+1 _USER MV5YPpFSI/7fqzlBdY4vkv/lZ2lzdZZ/gE4dxc7y/BxFpmrspd+n94Teoh8eCk5mmF5FOD7HURQb9XslHrXHqA==
+2 _ENCR 1
+1 _CLON
+2 _TID 17428643
+2 _PID 515808760
+2 _OID c7aca4ca-6547-4321-a4b3-156d244c4adf
+2 _USER JHzRVsxtLamOYik2j2VFgDuhhhUSp87paV8QfYbV/xnZwFemu6XDUAtiTpb9IAPbJ5aCAANXe8kiWNAh7y+WXw==
+3 _ENCR 1
+2 _DATE 2013-12-21 16:37:31.000
+1 _ORIG u
+1 _MSER
+2 _LKID c7aca4ca-6547-4321-a4b3-156d244c4adf
+1 _ATL N
+0 @O7@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 24453
+3 _WDTH 212
+3 _HGHT 300
+2 TITL charles-and-ida-kent015
+1 _OID bf629d31-9162-4191-9da9-130f435fdb29
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2022-05-14 12:19:59.974
+1 _USER /ueA30sOt2Z+Nj0h14qgVBWulLRpwfstuNdGKKoeDp/sbyQFl8VgFu3d6xB/wXBGbfrw3fcWDnaJgXPlmDc3Ow==
+2 _ENCR 1
+1 _CLON
+2 _TID 86551479
+2 _PID 48544686305
+2 _OID 4ae8a39f-9e6a-4f5d-9f9e-7d0d6cbe85b4
+2 _USER P3iUmh4h6WWC8FguIAksnGlvoUGLDZGOytFYEpFEVg+pcMt3HW83MaznhjEqX0db4FgTj7rnpHHuFhZwKBuXww==
+3 _ENCR 1
+2 _DATE 2016-01-08 15:10:12.000
+1 _ORIG u
+1 _MSER
+2 _LKID 4ae8a39f-9e6a-4f5d-9f9e-7d0d6cbe85b4
+1 _ATL N
+0 @O8@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 9197
+3 _WDTH 225
+3 _HGHT 225
+2 TITL Ceylon Postage Stamp
+1 _OID c0ef9cb9-619e-4157-a6e5-6782507c7e5a
+1 _CREA 2022-05-14 12:25:36.801
+1 _USER dFan3YOE4pyX0F0ma0LRaT+tuBNup1Dz94w0nqqKOm6X7HhkyI6TmFVe2Ylu7Bng1yg089j4gM7kN8ZWk+u5wg==
+2 _ENCR 1
+1 _CLON
+2 _OID df630184-2572-40f8-ae2e-e7be07c7e8f5
+2 _USER 0iiOk6FBN12QxfeTN5DEln17rckC6QIphUW5iZk8cO90JOHbkNph2nPfYht5ICGurO4FF6RIR5nkyBldvVvRuA==
+3 _ENCR 1
+2 _DATE 2020-07-14 06:10:14.000
+1 _ORIG u
+1 _MSER
+2 _LKID df630184-2572-40f8-ae2e-e7be07c7e8f5
+1 _ATL N
+0 @O9@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 6025170
+3 _WDTH 2988
+3 _HGHT 5312
+2 TITL 20150325_111102
+1 _OID e48070f9-abbb-4bdd-b09f-a7442cc82727
+1 _DSCR 'In Memory of My Dear Husband Edward Charles Lloyd Who Died 3rd April 1887 Aged 72 Years'  Cootamundra Cemetery Church of England Section
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2022-05-14 12:50:39.197
+1 _USER HwM2uVNDoEHOhbu/DoQBLzz+Rx5T0MLtlyUzg1MXXaiFqRCh9qPIOZaZS/B+CtDqKQkJepJNsaHHS/4eHnx4Iw==
+2 _ENCR 1
+1 _CLON
+2 _TID 56999933
+2 _PID 36016875135
+2 _OID b560c3f9-7ae6-41e8-bb8a-085058676956
+2 _USER vuYqSfOu/k1qDEKI/9r4x4sFIzFF80hE6zVDKQsYlLaNt/yfv36R1nNQQVsbeov8G7Mq3pJ2ooElQ+DnexCuUw==
+3 _ENCR 1
+2 _DATE 2015-04-02 05:25:26.000
+1 _ORIG u
+1 _MSER
+2 _LKID b560c3f9-7ae6-41e8-bb8a-085058676956
+1 _ATL N
+0 @O10@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 1046970
+3 _WDTH 1872
+3 _HGHT 1344
+2 TITL Children of Joseph & Martha (Hammersley) Adey   (page 1)
+1 _OID f8ac5b84-d717-46b1-b1af-5bb4b2c46f0a
+1 _META <metadataxml><cemetery /><transcription>WEDNESFIELD ST THOMAS BAPTISMS 1751-1903</transcription></metadataxml>
+1 _CREA 2022-05-14 12:46:27.602
+1 _USER ShMNpxhG73AHaSaPY9mBNmYL1q55QKiiU0mbfWBTYkkalQLLgcp/RBmhZY3kycLOXaR5d1FgyqF5ChsGI5WLRg==
+2 _ENCR 1
+1 _CLON
+2 _TID 17428643
+2 _PID 512961353
+2 _OID a34ba5ce-0cc2-43ae-b061-5bf0355e3c8f
+2 _USER 43NR9O7EswjOWnoQ95TABEl3Nn0p7wT2bhGm4Fx553fN57bOWedZAisnbLDiB9MOfTKSisSelD1c4VPJ3psIHA==
+3 _ENCR 1
+2 _DATE 2011-02-08 20:09:58.000
+1 _ORIG u
+1 _MSER
+2 _LKID a34ba5ce-0cc2-43ae-b061-5bf0355e3c8f
+1 _ATL N
+0 @S501075289@ SOUR
+1 TITL Australia and New Zealand, Find A Grave Index, 1800s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2012
+2 PLAC Provo, UT, USA
+1 _APID 1,60528::0
+1 REPO @R454324134@
+0 @R454324134@ REPO
+1 NAME Ancestry.com
+0 TRLR

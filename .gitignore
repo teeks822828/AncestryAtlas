@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+server/.env
+client/.env
+
+# Database
+*.db
+
+# Uploads
+server/uploads/
+
+# Build output
+client/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+.claude/

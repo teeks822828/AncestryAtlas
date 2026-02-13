@@ -1,0 +1,14 @@
+{
+  "name": "ancestry-atlas",
+  "version": "1.0.0",
+  "description": "Ancestry Atlas - Interactive family history mapping application",
+  "scripts": {
+    "postinstall": "cd server && npm install",
+    "build": "cd client && npm install && VITE_API_URL=/api VITE_UPLOADS_URL=/uploads npm run build",
+    "start": "node server/server.js",
+    "dev": "node server/server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
